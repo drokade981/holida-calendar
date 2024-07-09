@@ -8,3 +8,4 @@
 - run php artisan app:get-holidays
 - run php artisan:key generate
 - run php artisan serve
+- open http://127.0.0.1:8000/  in browser
